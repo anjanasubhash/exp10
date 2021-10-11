@@ -1,7 +1,6 @@
 
-a=input("Enter the first Number: ")
-b=input("Enter the second number: ")
-print("Hello World")
+a=input("Enter the 1rst Number: ")
+b=input("Enter the 2nd number: ")
 if int(a) > 0:
     print('a is positive number')
 elif int(a) < 0:
